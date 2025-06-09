@@ -1,0 +1,3 @@
+[submodule "qa/boilerplate-mochachai"]
+	path = qa/boilerplate-mochachai
+	url = https://github.com/freeCodeCamp/boilerplate-mochachai.git
